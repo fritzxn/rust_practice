@@ -1,1 +1,4 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
+    Checking rust_practice v0.1.0 (/home/fritz/Downloads/RustParentFolder/rust_practice)
+error: could not compile `rust_practice` (bin "rust_practice" test) due to 3 previous errors; 3 warnings emitted
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `rust_practice` (bin "rust_practice") due to 3 previous errors; 3 warnings emitted
